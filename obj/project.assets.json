@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\flavi\\OneDrive\\Documents\\Repositorio\\r-t-chat\\r-t-chat\\r-t-chat.csproj",
+      "projectUniqueName": "C:\\Users\\flavi\\OneDrive\\Documents\\Repositorio\\r-t-chat\\r-t-chat.csproj",
       "projectName": "r-t-chat",
-      "projectPath": "C:\\Users\\flavi\\OneDrive\\Documents\\Repositorio\\r-t-chat\\r-t-chat\\r-t-chat.csproj",
+      "projectPath": "C:\\Users\\flavi\\OneDrive\\Documents\\Repositorio\\r-t-chat\\r-t-chat.csproj",
       "packagesPath": "C:\\Users\\flavi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\flavi\\OneDrive\\Documents\\Repositorio\\r-t-chat\\r-t-chat\\obj\\",
+      "outputPath": "C:\\Users\\flavi\\OneDrive\\Documents\\Repositorio\\r-t-chat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flavi\\AppData\\Roaming\\NuGet\\NuGet.Config"
